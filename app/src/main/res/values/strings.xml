@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alarm Pro</string>
+    <string name="accessibility_service_description">Locks volume buttons during active alarm ringing so the user cannot lower or silence the alarm without solving the pattern or challenge.</string>
+</resources>

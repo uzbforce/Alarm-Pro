@@ -1,0 +1,6 @@
+{
+  "name": "Alarm Pro",
+  "description": "Feature-packed Alarm with Password/Pattern Lock, World Clock, Editable Timers, Stopwatch, and Liquid Glass Navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
